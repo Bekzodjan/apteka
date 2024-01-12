@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Imudon",
+      "price": 11000,
+      "count": 3
+    },
+    {
+      "id": "2",
+      "name": "Stramon",
+      "price": 11000,
+      "count": 3
+    },
+    {
+      "id": "3",
+      "name": "Traxisan",
+      "price": 11000,
+      "count": 3
+    },
+    {
+      "id": "4",
+      "name": "Atsiklovir",
+      "price": 11000,
+      "count": 3
+    },
+    {
+      "id": "5",
+      "name": "Paratsetamol",
+      "price": 11000,
+      "count": 3
+    },
+    {
+      "id": "e059",
+      "name": "1",
+      "price": "1",
+      "count": ""
+    }
+  ]
+}
